@@ -24,8 +24,8 @@ Using the **Phishing Incident Response Playbook**, I followed step-by-step instr
 ---
 
 ## 📂 Repository Contents
-- `alert-ticket.docx` → Completed alert ticket with updated status, comments, and **Additional Information** (includes malicious hash & phishing email details)  
-- `phishing-playbook-v1.0.docx` → Playbook with flowchart and step-by-step instructions  
+- [`alert-ticket.docx`](https://docs.google.com/document/d/1n9Z_i2Fnv1eE9K7U-POKxoG01Tx_RikIquJozAXJAS8/edit?usp=sharing) → Completed alert ticket with updated status, comments, and **Additional Information** (includes malicious hash & phishing email details)  
+- [`phishing-playbook-v1.0.docx`](https://docs.google.com/document/d/1Qvewl_Vlm1zhGk5px-XjaKEDOdtYY6-chXhCZXQD8F0/edit?usp=sharing) → Playbook with flowchart and step-by-step instructions  
 
 ---
 
